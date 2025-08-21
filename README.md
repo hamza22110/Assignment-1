@@ -128,4 +128,5 @@ Each question demonstrates the use of `print`, `input`, arithmetic operations, a
 
 ---
 📝 Author
-👤 Abdul Ahad
+
+👤 Hamza Ali
